@@ -1,0 +1,10 @@
+* wallstreetflets
+
+No, not wallstreetbets
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/nathanvy/wallstreetflets.git   |
+| commit  | c373c3d  |
+| systems | wallstreetflets |
+|---------+-------------------------------------------|
+
